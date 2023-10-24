@@ -2,6 +2,7 @@ To render a scene, cd into the src folder, then type in the terminal "./shaded_r
 
 Example: 
 
+# Render cube
 ```bash
 ./shaded_renderer ../data/scene_cube2.txt 800 800 1
 ```
@@ -10,6 +11,7 @@ Example:
 
 Example: 
 
+# Render bunny
 ```bash
 ./shaded_renderer ../data/scene_bunny1.txt 800 800 1
 ```
